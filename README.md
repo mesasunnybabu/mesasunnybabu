@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Mesa Sunny Babu 👋
 
-<!--
-**mesasunnybabu/mesasunnybabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech (Data Science & AI) student at IIITDM Kancheepuram.
+I build AI systems, edge models, and security tools — learning by shipping real projects.
 
-Here are some ideas to get you started:
+**Currently building with:** Python · TensorFlow · TFLite · Scikit-Learn · Git
+**AI tools I use:** Claude · GitHub Copilot · Cursor
+**Looking for:** Engineering Internship (Backend / AI / Systems)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 Projects
+- **ThreatMonitor** — AI-powered EDR simulation with anomaly detection
+- **Edge AI Vision** — MobileNet → TFLite quantization → live webcam inference
+- **Brain Tumor Detection** — U-Net segmentation on MRI scans
+
+### 📬 Reach me
+mesasunnybabu13@gmail.com · [LinkedIn](https://www.linkedin.com/in/mesa-sunny-babu-53aa89171/)
